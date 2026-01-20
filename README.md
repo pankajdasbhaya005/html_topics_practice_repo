@@ -29,7 +29,9 @@ This repo is created to understand:
    HTML-based layout inspired by a search page
 
 - `list_in_html.html`    
-  Travel list using html only  
+   Travel list using html only
+- `table_in_html.html`  
+   Table using html
 
 ## 🎯 Purpose
 
