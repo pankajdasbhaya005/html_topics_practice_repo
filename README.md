@@ -34,6 +34,8 @@ This repo is created to understand:
    Table using html  
 - `forms.html`  
    Html using forms
+- `multimedia.html`
+   Multimedia-audio,video and image
 
 ## 🎯 Purpose
 
