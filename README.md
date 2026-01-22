@@ -36,6 +36,8 @@ This repo is created to understand:
    Html using forms
 - `multimedia.html`  
    Multimedia-audio,video and image
+- `entities_and_specialcharacter.html`
+   Entities and special characters with example using html  
 
 ## 🎯 Purpose
 
