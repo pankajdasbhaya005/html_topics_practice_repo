@@ -1,53 +1,87 @@
-# HTML Project
+# HTML Topics Practice Repository 📘
 
-This repository contains small projects made using **only HTML**.
+This repository is created for **practicing HTML topic by topic**.  
+Each file focuses on a **specific HTML concept**, written using **only pure HTML**.
 
-## 📌 About This Repository
-
-- 🔹 Only **HTML** is used
-- 🔹 No CSS
-- 🔹 No JavaScript
-- 🔹 No frameworks or libraries
-- 🔹 Pure beginner-friendly HTML practice
-
-This repo is created to understand:
-- HTML structure
-- Tags and attributes
-- Forms and inputs
-- Links and navigation
-- Basic page layout using HTML only
-
-## 📂 Files in This Repository
-
-- `html_link.html`  
-   Practice for HTML links and navigation
-- `list_in_html.html`    
-   Travel list using html only
-- `table_in_html.html`  
-   Table using html  
-- `forms.html`  
-   Html using forms
-- `multimedia.html`  
-   Multimedia-audio,video and image
-- `entities_and_specialcharacter.html`  
-   Entities and special characters with example using html
-- `Segmented vs Non-Segmented.html`  
-   Segmented vs Non-Segmented all detail in hinglish
-- `semantic_html_project.html`  
-   Semantic HTML layout using HTML only
- 
-
-## 🎯 Purpose
-
-The main goal of this repository is:
-- To build confidence in **core HTML**
-- To practice without mixing CSS or JavaScript
-- To strengthen fundamentals before moving to advanced web development
-
-## 📖 Learning Stage
-
-This project is part of my **beginner web development learning journey**.
+👉 No CSS  
+👉 No JavaScript  
+👉 No frameworks  
+👉 Only HTML topics, clearly separated into individual files
 
 ---
 
-⭐ If you are learning HTML, feel free to explore these files.
+## 📂 Repository Structure
+
+Each `.html` file in this repository represents **one HTML topic**.
+
+### 🔹 Topics Covered
+
+- `Segmented vs Non-Segmented.html`  
+  → Difference between segmented and non-segmented HTML structure
+
+- `entities_and_specialcharacters.html`  
+  → HTML entities and special characters usage
+
+- `forms.html`  
+  → HTML forms, inputs, labels, buttons, and form structure
+
+- `html_link.html`  
+  → Anchor tags, links, and navigation basics
+
+- `list_in_html.html`  
+  → Ordered lists, unordered lists, and list elements
+
+- `multimedia.html`  
+  → Images, audio, video, and multimedia tags
+
+- `semantic_html_project.html`  
+  → Semantic HTML elements like header, footer, section, article, nav
+
+- `tables_in.html`  
+  → HTML tables, rows, columns, and table structure
+
+---
+
+## 🎯 Purpose of This Repository
+
+- Practice HTML **topic by topic**
+- Understand each HTML concept clearly
+- Build strong fundamentals before moving to CSS or JavaScript
+- Maintain clean, readable, beginner-friendly HTML code
+
+---
+
+## 🛠️ Tech Stack
+
+- ✅ HTML5 only  
+- ❌ No CSS  
+- ❌ No JavaScript  
+- ❌ No backend  
+
+---
+
+## 📌 Important Notes
+
+- This repository will **only contain HTML files**
+- Each file is uploaded **topic-wise**
+- No styling or scripting will be added
+- This is strictly a **learning and practice repository**
+
+---
+
+## ▶️ How to Use
+
+1. Clone or download the repository
+2. Open any `.html` file in a browser
+3. Read the code and understand the topic
+4. Modify and experiment for better learning
+
+---
+
+## 🙌 Author
+
+**Pankaj Dasbhaya**  
+
+---
+
+
