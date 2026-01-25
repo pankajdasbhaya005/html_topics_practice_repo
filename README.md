@@ -37,7 +37,9 @@ This repo is created to understand:
 - `multimedia.html`  
    Multimedia-audio,video and image
 - `entities_and_specialcharacter.html`  
-   Entities and special characters with example using html  
+   Entities and special characters with example using html
+- `Segmented vs Non-Segmented.html`
+   Segmented vs Non-Segmented all detail in hinglish  
 
 ## 🎯 Purpose
 
