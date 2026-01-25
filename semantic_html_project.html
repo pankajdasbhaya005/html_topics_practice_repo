@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Semantic HTML Project</title>
+
+    <!--
+        Head section:
+        Contains basic required metadata
+        Important for SEO and accessibility
+    -->
+    <meta name="description" content="Semantic HTML only project for practice">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <!-- =============================
+         HEADER (Top section of the website)
+    ============================== -->
+    <header>
+        <h1>My Semantic Website</h1>
+        <p>HTML only – No CSS, No JavaScript</p>
+    </header>
+
+    <!-- =============================
+         NAVIGATION
+    ============================== -->
+    <nav>
+        <a href="#home">Home</a> |
+        <a href="#about">About</a> |
+        <a href="#blog">Blog</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- =============================
+         MAIN CONTENT AREA
+    ============================== -->
+    <main>
+
+        <!-- Home Section -->
+        <section id="home">
+            <h2>Home</h2>
+            <p>
+                This is a pure semantic HTML website.
+                Only semantic tags are used in this project.
+            </p>
+        </section>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About</h2>
+
+            <article>
+                <h3>Why Semantic HTML?</h3>
+                <p>
+                    Semantic HTML means using meaningful tags
+                    such as header, nav, main, section, article, and footer.
+                </p>
+            </article>
+
+            <article>
+                <h3>Benefits</h3>
+                <ul>
+                    <li>Improves SEO</li>
+                    <li>Enhances accessibility</li>
+                    <li>Makes code more readable</li>
+                </ul>
+            </article>
+        </section>
+
+        <!-- Blog Section -->
+        <section id="blog">
+            <h2>Blog</h2>
+
+            <article>
+                <header>
+                    <h3>What is HTML?</h3>
+                    <p>Published on: 2026</p>
+                </header>
+
+                <p>
+                    HTML is a markup language used to
+                    structure content on the web.
+                </p>
+
+                <footer>
+                    <p>Author: Admin</p>
+                </footer>
+            </article>
+
+            <article>
+                <header>
+                    <h3>Semantic vs Non-Semantic</h3>
+                </header>
+
+                <p>
+                    Semantic tags describe the meaning
+                    of the content to both the browser and developers.
+                </p>
+
+                <footer>
+                    <p>Category: HTML Basics</p>
+                </footer>
+            </article>
+        </section>
+
+        <!-- ASIDE: Extra or related information -->
+        <aside>
+            <h2>Quick Info</h2>
+            <p>
+                This aside section is used for
+                additional or related information.
+            </p>
+        </aside>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2>Contact</h2>
+
+            <form>
+                <fieldset>
+                    <legend>Contact Form</legend>
+
+                    <label for="name">Name:</label><br>
+                    <input type="text" id="name" name="name"><br><br>
+
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email"><br><br>
+
+                    <button type="submit">Submit</button>
+                </fieldset>
+            </form>
+        </section>
+
+    </main>
+
+    <!-- =============================
+         FOOTER
+    ============================== -->
+    <footer>
+        <p>© 2026 Semantic HTML Project</p>
+        <p>Built using HTML only</p>
+    </footer>
+
+</body>
+
+</html>
