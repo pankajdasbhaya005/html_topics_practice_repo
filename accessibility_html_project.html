@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Accessibility HTML Project</title>
+
+    <!--
+        Basic meta tags for accessibility and responsiveness
+    -->
+    <meta name="description" content="HTML-only accessibility practice project">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <!-- =============================
+         HEADER
+    ============================== -->
+    <header>
+        <h1>Accessible HTML Website</h1>
+        <p>This page is built using accessible HTML practices only.</p>
+    </header>
+
+    <!-- =============================
+         NAVIGATION
+         Screen readers can easily identify nav
+    ============================== -->
+    <nav aria-label="Main Navigation">
+        <a href="#content">Content</a> |
+        <a href="#form">Form</a> |
+        <a href="#media">Media</a>
+    </nav>
+
+    <!-- =============================
+         MAIN CONTENT
+    ============================== -->
+    <main id="content">
+
+        <!-- Section with clear heading structure -->
+        <section>
+            <h2>Why Accessibility Matters</h2>
+            <p>
+                Accessibility ensures that websites can be used by
+                people with disabilities, screen readers, and keyboards.
+            </p>
+        </section>
+
+        <!-- =============================
+             IMAGE WITH ALT TEXT
+        ============================== -->
+        <section id="media">
+            <h2>Accessible Image Example</h2>
+
+            <!--
+                alt attribute is mandatory for accessibility
+            -->
+            <img src="example.jpg" alt="Illustration showing accessible web design concept">
+
+            <p>
+                The image above includes alternative text
+                for screen reader users.
+            </p>
+        </section>
+
+        <!-- =============================
+             FORM WITH ACCESSIBILITY
+        ============================== -->
+        <section id="form">
+            <h2>Accessible Contact Form</h2>
+
+            <form>
+
+                <!-- Fieldset and legend help screen readers -->
+                <fieldset>
+                    <legend>Contact Information</legend>
+
+                    <!-- Label connected with input using for and id -->
+                    <label for="username">Full Name:</label><br>
+                    <input type="text" id="username" name="username" required><br><br>
+
+                    <label for="email">Email Address:</label><br>
+                    <input type="email" id="email" name="email" required><br><br>
+
+                    <label for="phone">Phone Number:</label><br>
+                    <input type="tel" id="phone" name="phone"><br><br>
+
+                </fieldset>
+
+                <!-- Another fieldset -->
+                <fieldset>
+                    <legend>Message</legend>
+
+                    <label for="message">Your Message:</label><br>
+                    <textarea id="message" name="message" rows="4" cols="30"></textarea>
+                </fieldset>
+
+                <br>
+
+                <!-- Button is better than input type submit -->
+                <button type="submit" aria-label="Submit contact form">
+                    Submit
+                </button>
+
+            </form>
+        </section>
+
+    </main>
+
+    <!-- =============================
+         FOOTER
+    ============================== -->
+    <footer>
+        <p>© 2026 Accessibility HTML Project</p>
+        <p>Built using accessible HTML only</p>
+    </footer>
+
+</body>
+
+</html>
