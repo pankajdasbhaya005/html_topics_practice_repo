@@ -39,6 +39,10 @@ Each `.html` file in this repository represents **one HTML topic**.
 
 - `tables_in.html`  
   → HTML tables, rows, columns, and table structure
+- `accessibility_html_project.html`  
+  → A practice HTML file focused on improving web accessibility and usability
+
+
 
 ---
 
