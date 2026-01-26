@@ -41,6 +41,9 @@ Each `.html` file in this repository represents **one HTML topic**.
   → HTML tables, rows, columns, and table structure
 - `accessibility_html_project.html`  
   → A practice HTML file focused on improving web accessibility and usability
+- `html_head_seo_project.html`  
+  → A practice HTML file demonstrating proper use of the head section and basic SEO meta tags
+
 
 
 
