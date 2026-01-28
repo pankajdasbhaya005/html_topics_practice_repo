@@ -43,6 +43,10 @@ Each `.html` file in this repository represents **one HTML topic**.
   → A practice HTML file focused on improving web accessibility and usability
 - `html_head_seo_project.html`  
   → A practice HTML file demonstrating proper use of the head section and basic SEO meta tags
+- `html_best_practices.html`  
+  → A practice HTML file demonstrating best practices and common HTML mistakes
+
+
 
 
 
