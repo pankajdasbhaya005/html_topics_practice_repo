@@ -58,6 +58,14 @@ Each `.html` file in this repository represents **one HTML topic**.
 - `details_summary.html`  
   → Demonstrates collapsible content using details and summary tags
 
+- `figure_figcaption.html`  
+  → Demonstrates semantic image usage with figure and figcaption
+
+- `html_global_attributes.html`  
+  → Demonstrates commonly used HTML global attributes
+
+
+
 
  
 
