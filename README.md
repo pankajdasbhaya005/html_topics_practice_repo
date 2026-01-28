@@ -54,6 +54,10 @@ Each `.html` file in this repository represents **one HTML topic**.
   
 - `iframe_in_html.html`  
   → Demonstrates embedding external content using the iframe tag
+  
+- `details_summary.html`  
+  → Demonstrates collapsible content using details and summary tags
+
 
  
 
